@@ -135,3 +135,6 @@ body.caps article,body.caps h2{text-transform:uppercase;font-family:var(--f-sign
 .dg b{font:700 1.4rem var(--f-sign);color:var(--ink);margin-right:6px}
 .dg i{font-style:normal;font-family:var(--f-read);color:var(--aegean);font-weight:600}
 @media (prefers-reduced-motion:no-preference){.g.n{transition:background .3s}}
+.contacts{font-size:.72rem;color:var(--muted);opacity:.6;text-align:center}
+.contacts a{color:inherit;text-decoration:none}
+.contacts a:hover{text-decoration:underline;text-underline-offset:2px}
